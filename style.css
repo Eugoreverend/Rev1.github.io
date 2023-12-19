@@ -25,7 +25,7 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    margin-top: 300px;
+    margin-top: 500px;
 }
 
 .container>.envelope-wrapper {
